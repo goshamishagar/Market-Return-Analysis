@@ -1,4 +1,4 @@
-# 📊 Market Return Dashboard — FY 2025–26
+# 📊 Market Return Dashboard
 **ABC Corporation Ltd. | Damage Settlement Analysis**
 
 A fully interactive, single-file executive dashboard built with
