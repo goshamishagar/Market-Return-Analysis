@@ -28,3 +28,59 @@ Just open in a browser.
 ---
 
 ## 📁 File Structure
+market-return-dashboard/
+│
+├── abc_market_return_1122x794.html   ← main dashboard file
+├── screenshot.png                    ← preview image
+└── README.md                         ← this file
+---
+
+## 🚀 How to Use
+
+1. Download `abc_market_return_1122x794.html`
+2. Open it in any modern browser (Chrome, Edge, Firefox)
+3. Upload your `Market_Retun_File-_FY_25-26.xlsx`
+4. Dashboard updates automatically
+
+**Required Excel columns:**
+| Column | Description |
+|---|---|
+| Region | Geographic region |
+| Area | Sub-region area |
+| TT | Territory |
+| DB Type | Combined / Line-1 / Line-2 / SD |
+| BD Status | True / False |
+| Total Indent Value | Claimed damage value |
+| Audited Value | Post-audit value |
+| Total DPRate | Settlement / DP rate paid |
+
+---
+
+## 🛠 Built With
+
+- **HTML5 / CSS3 / Vanilla JavaScript**
+- **Chart.js 4.4.1** — charts and visualizations
+- **SheetJS (xlsx)** — Excel file parsing
+- **html2canvas** — screenshot capture
+- **Google Fonts** — Inter + IBM Plex Mono
+- **Claude AI** — design, logic, and build assistance
+
+---
+
+## 📸 Preview
+
+> Upload your file → 10 second animated load →
+> full dashboard renders live
+
+---
+
+## 📄 License
+
+MIT License — free to use, modify and share.
+
+---
+
+## 🙋 Author
+
+**SHAGAR GOSHAMI**
+[LinkedIn](www.linkedin.com/in/shagar-goshami)
